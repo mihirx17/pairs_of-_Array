@@ -1,3 +1,4 @@
+//@mihirx17
 public class Main {
     public static void pairs_of_Array(int a[])
     {
@@ -20,3 +21,4 @@ public class Main {
         pairs_of_Array(a);
     }
 }
+///NOTHING IS GOOD LIKE YOU
